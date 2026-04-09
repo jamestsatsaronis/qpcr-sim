@@ -807,7 +807,7 @@ export default function VirtualQPCR() {
         )}
         {renderStep()}
         <div style={{ textAlign: "center", marginTop: 44, fontSize: 13, color: "#334" }}>
-          Virtual qPCR Flow Simulation · Adapted from FileMaker original
+          Virtual qPCR Simulation. Originally designed by Alice Huang and adapted by James Tsatsaronis.
         </div>
       </div>
     </div>
