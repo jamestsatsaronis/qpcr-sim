@@ -495,7 +495,7 @@ export default function VirtualQPCR() {
         return (
           <div style={{ textAlign: "center" }}>
             <div style={{ fontSize: 56, marginBottom: 10 }}>🧬</div>
-            <h1 style={{ fontSize: 36, fontWeight: 300, marginBottom: 12, letterSpacing: -0.5 }}>Virtual qPCR Flow</h1>
+            <h1 style={{ fontSize: 36, fontWeight: 300, marginBottom: 12, letterSpacing: -0.5 }}>Virtual qPCR Experiment</h1>
             <p style={{ color: "#c8d4e0", lineHeight: 1.8, maxWidth: 580, margin: "0 auto 28px", fontSize: 18 }}>
               Welcome to the lab! You've just attended a conference where a researcher showed microarray results revealing a gene that could revolutionise your field.
               <br /><br />
